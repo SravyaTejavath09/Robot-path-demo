@@ -18,12 +18,19 @@ A simple robot pathfinding simulation that visualizes a robot moving step-by-ste
 ## 📷 Output Example
 
 R . . . X . . .
+
 . X . . X . X .
+
 . X . . . . X .
+
 . . . X . X X .
+
 X . X X . . . .
+
 . . . X . X . .
+
 . . . . . . . X
+
 . . . . . . . G
 
 ✅ Reached goal in 14 steps!
